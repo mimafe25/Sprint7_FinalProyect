@@ -1,0 +1,2 @@
+Hola.
+  Realicé los cambios mencionados. Agregué un dropbar para que se vean varios parámetros y se puedan elegir las variables que se desean graficar en la gráfica de dispersión. 
